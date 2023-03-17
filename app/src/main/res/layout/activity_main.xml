@@ -19,26 +19,29 @@
             android:layout_weight="1"
             android:orientation="horizontal">
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap1"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
                 android:src="@drawable/instagram1" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap2"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/twiter"
-                />
+                android:src="@drawable/twiter" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap3"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
                 android:src="@drawable/whatshapp" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap4"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
@@ -52,29 +55,33 @@
             android:layout_weight="1"
             android:orientation="horizontal">
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap5"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
                 android:src="@drawable/messanger" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap6"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_margin="10dp"
                 android:src="@drawable/youtube" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap7"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/google" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap8"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/pintress" />
 
         </LinearLayout>
 
@@ -84,29 +91,33 @@
             android:layout_weight="1"
             android:orientation="horizontal">
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap9"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/chrome" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap10"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/browser" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap11"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/linkdane" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap12"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/sharechat" />
 
         </LinearLayout>
 
@@ -116,29 +127,33 @@
             android:layout_weight="1"
             android:orientation="horizontal">
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap13"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/josh" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap14"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/netflix" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap15"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/resso" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap16"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/spotify" />
 
         </LinearLayout>
 
@@ -148,29 +163,33 @@
             android:layout_weight="1"
             android:orientation="horizontal">
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap17"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/gana" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap18"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/map" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap19"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/ytstudio" />
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/Ap20"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
-                android:src="@drawable/instagram1" />
+                android:src="@drawable/snapchat" />
 
         </LinearLayout>
 
